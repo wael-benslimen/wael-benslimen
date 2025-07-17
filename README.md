@@ -8,7 +8,7 @@ i've been coding for 5 years i have a passion for web apps and game coding i do 
 
 * 🌍  I'm based in Tunisia
 * ✉️  You can contact me at [waelbenslimen1111@gmail.com](mailto:waelbenslimen1111@gmail.com)
-* 🧠  I'm learning angular react js and java
+* 🧠  I'm good with angular react js and java bootstrap python django and many more
 * 🤝  I'm open to collaborating on any web app projects
 
 ### Skills
